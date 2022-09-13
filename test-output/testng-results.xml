@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30" started-at="2022-09-12T16:44:43Z" finished-at="2022-09-12T16:44:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30" started-at="2022-09-12T16:44:43Z" finished-at="2022-09-12T16:44:43Z">
+      <class name="org.testng.TestingSample">
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.testng.TestingSample@4b9e13df]" name="tc1" is-config="true" duration-ms="13" started-at="2022-09-12T16:44:43Z" finished-at="2022-09-12T16:44:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="tc2()[pri:0, instance:org.testng.TestingSample@4b9e13df]" name="tc2" is-config="true" duration-ms="1" started-at="2022-09-12T16:44:43Z" finished-at="2022-09-12T16:44:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="tc0()[pri:0, instance:org.testng.TestingSample@4b9e13df]" name="tc0" duration-ms="5" started-at="2022-09-12T16:44:43Z" finished-at="2022-09-12T16:44:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc0 -->
+      </class> <!-- org.testng.TestingSample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
